@@ -1,4 +1,4 @@
-
+# kanwaldfjgdj
 #Make a qq plot
 png("GWAS_BMI.png")
 qq(GWAS_BMI$LOG10P,
